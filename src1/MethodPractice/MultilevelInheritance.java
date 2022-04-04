@@ -39,6 +39,6 @@ class D1 extends C1
 	int e=30;
 	int f=10;
 	void Divi() {
-		System.out.println("Division="+(e/f));
+		System.out.println("Division ="+(e/f));
 	}
 }
