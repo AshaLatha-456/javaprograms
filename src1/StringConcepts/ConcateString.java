@@ -6,7 +6,7 @@ public class ConcateString {
 		// TODO Auto-generated method stub
         String S="Asha is a Super ";
         String S1="girl";
-        System.out.println(S.concat(S1));
+        System.out.println("Concat="+S.concat(S1));
 	}
 
 }
