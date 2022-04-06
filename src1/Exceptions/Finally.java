@@ -20,7 +20,7 @@ public class Finally {
          catch(Exception e){
         	 System.out.println("Your CreditHistory is Low");
         	 System.out.println("You are not Eligible for Loan");
-        	 //System.out.println(e.getMessage());
+        	 System.out.println(e.getMessage());
          }
        finally {
     	   System.out.println("Your Profile is verified");
